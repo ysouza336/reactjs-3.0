@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import './index'
+import './index';
 import Input from "./components/formulario/Input"
 import IndiretaPai from "./components/comunicacao/IndiretaPai";
 import DiretaPai from "./components/comunicacao/DiretaPai"; 
